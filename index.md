@@ -2,7 +2,7 @@
 
 # User Page
 
-![me](C:\Users\Noeh\CSE110\IMG_7099.jpg)
+![me](IMG_7099.jpg)
 
 ## About me 
 
